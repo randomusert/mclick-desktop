@@ -1,0 +1,2 @@
+echo running
+npm start
